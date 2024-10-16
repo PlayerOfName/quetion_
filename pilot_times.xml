@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pilots>
+  <pilot name="testNamePilot2">
+    <month year="2222" month="1">
+      <duration>PT744H</duration>
+    </month>
+    <month year="2222" month="3">
+      <duration>PT744H</duration>
+    </month>
+  </pilot>
+  <pilot name="testNamePilot1">
+    <month year="2222" month="1">
+      <duration>PT744H</duration>
+    </month>
+    <month year="2222" month="3">
+      <duration>PT744H</duration>
+    </month>
+  </pilot>
+  <pilot name="testNamePilot4">
+    <month year="2222" month="1">
+      <duration>PT744H</duration>
+    </month>
+    <month year="2222" month="3">
+      <duration>PT744H</duration>
+    </month>
+  </pilot>
+  <pilot name="testNamePilot3">
+    <month year="2222" month="1">
+      <duration>PT744H</duration>
+    </month>
+    <month year="2222" month="3">
+      <duration>PT744H</duration>
+    </month>
+  </pilot>
+</pilots>

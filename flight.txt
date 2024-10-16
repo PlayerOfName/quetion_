@@ -1,0 +1,2 @@
+testNumber, testType, 2222-01-01 00:00:00, 2222-02-01 00:00:00, testDepartureAirport, testArrivalAirport, testNamePilot1, testNamePilot2
+testNumber2, testType2, 2222-03-01 00:00:00, 2222-04-01 00:00:00, testDepartureAirport2, testArrivalAirport2, testNamePilot3, testNamePilot4
